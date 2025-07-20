@@ -8,10 +8,10 @@
 ## 📊 Dashboard Preview
 
 ### 📌 Page 1 – Insights & Trends Overview
-![Screen Time Dashboard - Page 1](https://github.com/ahmadyase1234/screen-time-dashboard/blob/main/page1.png)
+![Screen Time Dashboard - Page 1](https://github.com/ahmadyase1234/screen-Time-Analysis/blob/main/screen%20time%201.PNG)
 
 ### 📌 Page 2 – Key Metrics Summary
-![Screen Time Dashboard - Page 2](https://github.com/ahmadyase1234/screen-Time-Analysis/blob/main/screen%20time%201.PNG)
+![Screen Time Dashboard - Page 2](https://github.com/ahmadyase1234/screen-Time-Analysis/blob/main/screen%20time%202.PNG)
 
 ---
 
