@@ -1,7 +1,7 @@
 # ⏳ Screen Time Analysis – Power BI Dashboard
 
 **🔗 [My LinkedIn](https://www.linkedin.com/in/ahmad-yasser-faiq-data-analyst/)**  
-**📥 [Download PBIX File](https://github.com/ahmadyase1234/screen-time-dashboard/blob/main/screen_time_dashboard.pbix)**  
+**📥 [Download PBIX File](https://github.com/ahmadyase1234/screen-Time-Analysis/blob/main/Screen%20time%20analysis%20(1).pbix)**  
 
 ---
 
